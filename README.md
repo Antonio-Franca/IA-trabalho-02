@@ -12,7 +12,7 @@ Este trabalho  utiliza uma rede probabilística para modelar a probabilidade de 
 
 ### Variáveis
 
-1.  **Lâmpada (b):** A probabilidade de a lâmpada estar funcionando corretamente.
+1.  **Lâmpada (b):** A probabilidade da lâmpada estar funcionando corretamente.
     
     -   Probabilidade de `b` (lâmpada ok): **0.97**
         
